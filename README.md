@@ -10,4 +10,6 @@ https://www.codewars.com/kata/calculate-two-peoples-individual-ages/train/javasc
 
 https://www.codewars.com/kata/exes-and-ohs/train/java/
 
+https://www.codewars.com/kata/even-or-odd/train/java/
+
 
