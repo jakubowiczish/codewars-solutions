@@ -1,8 +1,8 @@
-Solution for problem:
+## Solution for problem:
 
 https://www.codewars.com/kata/how-many-lightsabers-do-you-own/train/javascript/5d8091d5caab81000ee390e5
 
-#
+## Instructions
 
 Inspired by the development team at Vooza, write the function 
 ```js
