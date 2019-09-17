@@ -1,4 +1,4 @@
-## Problems solved:
+### Problems solved (link => solution) 
 
 1. https://www.codewars.com/kata/difference-of-volumes-of-cuboids/train/javascript/ 
 => https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/calculate-two-peoples-individual-ages
@@ -20,6 +20,4 @@
 
 7. https://www.codewars.com/kata/century-from-year/train/java/
 => https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/century-from-year
-
-
 
