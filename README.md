@@ -32,3 +32,6 @@
 
 11. https://www.codewars.com/kata/spacify/train/java/
 => 
+
+12. https://www.codewars.com/kata/sum-of-odd-numbers/java
+=> 
