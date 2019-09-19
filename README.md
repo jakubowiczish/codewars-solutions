@@ -35,3 +35,6 @@
 
 12. https://www.codewars.com/kata/sum-of-odd-numbers/java
 => 
+
+13. https://www.codewars.com/kata/maximum-multiple/solutions
+=> 
