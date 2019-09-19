@@ -21,3 +21,11 @@
 7. https://www.codewars.com/kata/century-from-year/train/java/
 => https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/century-from-year
 
+8. https://www.codewars.com/kata/grasshopper-messi-goals-function/train/javascript/
+=> 
+
+9. https://www.codewars.com/kata/a-needle-in-the-haystack/java
+=> 
+
+10. https://www.codewars.com/kata/longest-vowel-chain/train/javascript
+=> 
