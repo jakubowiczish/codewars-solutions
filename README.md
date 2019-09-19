@@ -29,3 +29,6 @@
 
 10. https://www.codewars.com/kata/longest-vowel-chain/train/javascript
 => 
+
+11. https://www.codewars.com/kata/spacify/train/java/
+=> 
