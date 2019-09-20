@@ -22,19 +22,22 @@
 => https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/century-from-year
 
 8. https://www.codewars.com/kata/grasshopper-messi-goals-function/train/javascript/
-=> 
+=> https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/grasshopper-messi-goals-function
 
 9. https://www.codewars.com/kata/a-needle-in-the-haystack/java
-=> 
+=> https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/a_needle_in_the_haystack
 
 10. https://www.codewars.com/kata/longest-vowel-chain/train/javascript
-=> 
+=> https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/longest-vowel-chain
 
 11. https://www.codewars.com/kata/spacify/train/java/
-=> 
+=> https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/spacify
 
 12. https://www.codewars.com/kata/sum-of-odd-numbers/java
-=> 
+=> https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/sum-of-odd-numbers
 
 13. https://www.codewars.com/kata/maximum-multiple/solutions
+=> https://github.com/jakubowiczish/my-codewars-solutions/tree/master/src/maximum-multiple
+
+14.
 => 
