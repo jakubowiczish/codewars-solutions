@@ -1,4 +1,4 @@
-package sum_of_odd_numbers;
+package _7kyu_sum_of_odd_numbers;
 
 import org.junit.jupiter.api.Test;
 

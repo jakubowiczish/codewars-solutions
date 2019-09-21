@@ -1,4 +1,4 @@
-package century_from_year;
+package _8kyu_century_from_year;
 
 class CenturyFromYear {
     static int century(int number) {

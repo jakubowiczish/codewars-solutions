@@ -1,4 +1,4 @@
-package drying_potatoes;
+package _7kyu_drying_potatoes;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package drying_potatoes;
+package _7kyu_drying_potatoes;
 
 class Potatoes {
     static int potatoes(int p0, int w0, int p1) {

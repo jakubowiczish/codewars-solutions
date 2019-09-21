@@ -1,4 +1,4 @@
-package maximum_multiple;
+package _7kyu_maximum_multiple;
 
 class MaxMultiple {
 

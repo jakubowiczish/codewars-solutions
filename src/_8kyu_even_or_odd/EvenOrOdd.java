@@ -1,4 +1,4 @@
-package even_or_odd;
+package _8kyu_even_or_odd;
 
 class EvenOrOdd {
     static String evenOrOdd(int number) {

@@ -1,4 +1,4 @@
-package spacify;
+package _7kyu_spacify;
 
 import org.junit.jupiter.api.Test;
 

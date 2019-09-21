@@ -1,4 +1,4 @@
-package a_needle_in_the_haystack;
+package _8kyu_a_needle_in_the_haystack;
 
 class NeedleInTheHaystack {
 

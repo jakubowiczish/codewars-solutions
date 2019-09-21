@@ -1,4 +1,4 @@
-package string_ends_with;
+package _7kyu_string_ends_with;
 
 class StringEndsWith {
 

@@ -1,4 +1,4 @@
-package spacify;
+package _7kyu_spacify;
 
 class Spacify {
 

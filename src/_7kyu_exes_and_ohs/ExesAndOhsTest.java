@@ -1,4 +1,4 @@
-package exes_and_ohs;
+package _7kyu_exes_and_ohs;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package maximum_multiple;
+package _7kyu_maximum_multiple;
 
 import org.junit.jupiter.api.Test;
 
