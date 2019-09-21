@@ -14,7 +14,11 @@
 
 1. https://www.codewars.com/kata/maximum-multiple/
 
+1. https://www.codewars.com/kata/odd-ones-out/
+
 1. https://www.codewars.com/kata/spacify/
+
+1. https://www.codewars.com/kata/square-every-digit/
 
 1. https://www.codewars.com/kata/string-ends-with/train/
 
