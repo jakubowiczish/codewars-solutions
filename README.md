@@ -4,42 +4,44 @@
 
 1. https://www.codewars.com/kata/calculate-two-peoples-individual-ages/train/javascript/
 
-2. https://www.codewars.com/kata/drying-potatoes/java
+1. https://www.codewars.com/kata/drying-potatoes/
 
-3. https://www.codewars.com/kata/exes-and-ohs/train/java/
+1. https://www.codewars.com/kata/exes-and-ohs/
 
-4. https://www.codewars.com/kata/growth-of-a-population/train/java/
+1. https://www.codewars.com/kata/growth-of-a-population/
 
-5. https://www.codewars.com/kata/longest-vowel-chain/train/javascript
+1. https://www.codewars.com/kata/longest-vowel-chain/
 
-6. https://www.codewars.com/kata/maximum-multiple/solutions
+1. https://www.codewars.com/kata/maximum-multiple/
 
-7. https://www.codewars.com/kata/spacify/train/java/
+1. https://www.codewars.com/kata/spacify/
 
-8. https://www.codewars.com/kata/string-ends-with/train/java/
+1. https://www.codewars.com/kata/string-ends-with/train/
 
-9. https://www.codewars.com/kata/sum-of-odd-numbers/java
+1. https://www.codewars.com/kata/sum-of-odd-numbers/
 
 #### 8kyu
 
-1. https://www.codewars.com/kata/a-needle-in-the-haystack/java
+1. https://www.codewars.com/kata/a-needle-in-the-haystack/
 
-2. https://www.codewars.com/kata/century-from-year/train/java/
+1. https://www.codewars.com/kata/century-from-year/
 
-3. https://www.codewars.com/kata/difference-of-volumes-of-cuboids/train/javascript/ 
+1. https://www.codewars.com/kata/count-the-monkeys/
 
-4. https://www.codewars.com/kata/even-or-odd/train/java/
+1. https://www.codewars.com/kata/difference-of-volumes-of-cuboids/ 
 
-5. https://www.codewars.com/kata/grasshopper-messi-goals-function/train/javascript/
+1. https://www.codewars.com/kata/enumerable-magic-number-25-take-the-first-n-elements/
 
-6. https://www.codewars.com/kata/how-many-lightsabers-do-you-own/train/javascript/
+1. https://www.codewars.com/kata/even-or-odd/
 
+1. https://www.codewars.com/kata/expressions-matter/
 
+1. https://www.codewars.com/kata/grasshopper-messi-goals-function/
 
+1. https://www.codewars.com/kata/how-many-lightsabers-do-you-own/
 
+1. https://www.codewars.com/kata/simple-fun-number-1-seats-in-theater/ 
 
+1. https://www.codewars.com/kata/third-angle-of-a-triangle/
 
-
-
-
-
+1. 
