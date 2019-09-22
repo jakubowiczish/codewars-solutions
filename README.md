@@ -16,6 +16,8 @@
 
 1. https://www.codewars.com/kata/growth-of-a-population/
 
+1. https://www.codewars.com/kata/leap-years/
+
 1. https://www.codewars.com/kata/longest-vowel-chain/
 
 1. https://www.codewars.com/kata/maximum-multiple/
@@ -57,6 +59,8 @@
 1. https://www.codewars.com/kata/grasshopper-messi-goals-function/
 
 1. https://www.codewars.com/kata/how-many-lightsabers-do-you-own/
+
+1. https://www.codewars.com/kata/is-the-date-today/
 
 1. https://www.codewars.com/kata/odder-than-the-rest/
 
