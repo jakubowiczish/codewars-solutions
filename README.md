@@ -72,4 +72,6 @@
 
 1. https://www.codewars.com/kata/square-n-sum/
 
+1. https://www.codewars.com/kata/sum-mixed-array/
+
 1. https://www.codewars.com/kata/third-angle-of-a-triangle/
