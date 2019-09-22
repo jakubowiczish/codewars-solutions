@@ -1,5 +1,9 @@
 ## Problems solved
 
+#### 6kyu
+
+1. https://www.codewars.com/kata/find-the-missing-letter/
+
 #### 7kyu
 
 1. https://www.codewars.com/kata/calculate-two-peoples-individual-ages/train/javascript/
@@ -7,6 +11,8 @@
 1. https://www.codewars.com/kata/drying-potatoes/
 
 1. https://www.codewars.com/kata/exes-and-ohs/
+
+1. https://www.codewars.com/kata/flatten-and-sort-an-array/
 
 1. https://www.codewars.com/kata/growth-of-a-population/
 
@@ -20,9 +26,13 @@
 
 1. https://www.codewars.com/kata/square-every-digit/
 
-1. https://www.codewars.com/kata/string-ends-with/train/
+1. https://www.codewars.com/kata/string-ends-with/
+
+1. https://www.codewars.com/kata/sum-even-numbers/
 
 1. https://www.codewars.com/kata/sum-of-odd-numbers/
+
+1. https://www.codewars.com/kata/unlucky-days/
 
 #### 8kyu
 
