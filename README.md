@@ -60,6 +60,8 @@
 
 1. https://www.codewars.com/kata/grasshopper-messi-goals-function/
 
+1. https://www.codewars.com/kata/grasshopper-terminal-game-move-function/
+
 1. https://www.codewars.com/kata/how-many-lightsabers-do-you-own/
 
 1. https://www.codewars.com/kata/is-the-date-today/
@@ -67,5 +69,7 @@
 1. https://www.codewars.com/kata/odder-than-the-rest/
 
 1. https://www.codewars.com/kata/simple-fun-number-1-seats-in-theater/ 
+
+1. https://www.codewars.com/kata/square-n-sum/
 
 1. https://www.codewars.com/kata/third-angle-of-a-triangle/
