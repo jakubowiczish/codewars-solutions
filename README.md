@@ -6,6 +6,8 @@
 
 #### 7kyu
 
+1. https://www.codewars.com/kata/1st-day-of-month-that-are-sunday-in-a-year-range/
+
 1. https://www.codewars.com/kata/calculate-two-peoples-individual-ages/train/javascript/
 
 1. https://www.codewars.com/kata/drying-potatoes/
