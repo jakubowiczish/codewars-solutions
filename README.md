@@ -4,6 +4,8 @@
 
 1. https://www.codewars.com/kata/find-the-missing-letter/
 
+1. https://www.codewars.com/kata/new-cashier-does-not-know-about-space-or-shift/
+ 
 #### 7kyu
 
 1. https://www.codewars.com/kata/1st-day-of-month-that-are-sunday-in-a-year-range/
@@ -65,6 +67,8 @@
 1. https://www.codewars.com/kata/how-many-lightsabers-do-you-own/
 
 1. https://www.codewars.com/kata/is-the-date-today/
+
+1. https://www.codewars.com/kata/l1-set-alarm/
 
 1. https://www.codewars.com/kata/odder-than-the-rest/
 
