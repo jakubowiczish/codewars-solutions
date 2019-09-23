@@ -1,8 +1,8 @@
 ## Solution for problem:
 
 https://www.codewars.com/kata/new-cashier-does-not-know-about-space-or-shift/
-## Instructions
 
+## Instructions
 
 Some new cashiers started to work at your restaurant.
 

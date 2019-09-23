@@ -5,7 +5,9 @@
 1. https://www.codewars.com/kata/find-the-missing-letter/
 
 1. https://www.codewars.com/kata/new-cashier-does-not-know-about-space-or-shift/
- 
+
+1. https://www.codewars.com/kata/primorial-of-a-number/
+
 #### 7kyu
 
 1. https://www.codewars.com/kata/1st-day-of-month-that-are-sunday-in-a-year-range/
