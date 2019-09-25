@@ -4,6 +4,8 @@
 
 1. https://www.codewars.com/kata/find-the-missing-letter/
 
+1. https://www.codewars.com/kata/find-the-odd-int/ 
+
 1. https://www.codewars.com/kata/meeting/
 
 1. https://www.codewars.com/kata/new-cashier-does-not-know-about-space-or-shift/
