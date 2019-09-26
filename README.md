@@ -64,6 +64,8 @@
 
 1. https://www.codewars.com/kata/count-the-monkeys/
 
+1. https://www.codewars.com/kata/counting-sheep-dot-dot-dot/
+
 1. https://www.codewars.com/kata/difference-of-volumes-of-cuboids/ 
 
 1. https://www.codewars.com/kata/enumerable-magic-number-25-take-the-first-n-elements/
