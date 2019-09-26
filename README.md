@@ -4,6 +4,8 @@
 
 1. https://www.codewars.com/kata/camelcase-method/
 
+1. https://www.codewars.com/kata/circularly-sorted-array/
+
 1. https://www.codewars.com/kata/find-the-missing-letter/
 
 1. https://www.codewars.com/kata/find-the-odd-int/ 
@@ -27,6 +29,8 @@
 1. https://www.codewars.com/kata/exes-and-ohs/
 
 1. https://www.codewars.com/kata/flatten-and-sort-an-array/
+
+1. https://www.codewars.com/kata/form-the-minimum/
 
 1. https://www.codewars.com/kata/growth-of-a-population/
 
@@ -61,6 +65,8 @@
 1. https://www.codewars.com/kata/convert-a-number-to-a-string/
 
 1. https://www.codewars.com/kata/convert-a-string-to-a-number/
+
+1. https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/
 
 1. https://www.codewars.com/kata/count-the-monkeys/
 
