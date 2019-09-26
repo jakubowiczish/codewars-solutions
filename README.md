@@ -2,6 +2,8 @@
 
 #### 6kyu
 
+1. https://www.codewars.com/kata/camelcase-method/
+
 1. https://www.codewars.com/kata/find-the-missing-letter/
 
 1. https://www.codewars.com/kata/find-the-odd-int/ 
