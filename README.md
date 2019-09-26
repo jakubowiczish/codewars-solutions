@@ -82,6 +82,8 @@
 
 1. https://www.codewars.com/kata/how-many-lightsabers-do-you-own/
 
+1. https://www.codewars.com/kata/incorrect-division-method/
+
 1. https://www.codewars.com/kata/is-the-date-today/
 
 1. https://www.codewars.com/kata/l1-set-alarm/
