@@ -6,6 +6,8 @@
 
 1. https://www.codewars.com/kata/find-the-odd-int/ 
 
+1. https://www.codewars.com/kata/highest-scoring-word/
+
 1. https://www.codewars.com/kata/meeting/
 
 1. https://www.codewars.com/kata/new-cashier-does-not-know-about-space-or-shift/
@@ -53,6 +55,10 @@
 1. https://www.codewars.com/kata/a-needle-in-the-haystack/
 
 1. https://www.codewars.com/kata/century-from-year/
+
+1. https://www.codewars.com/kata/convert-a-number-to-a-string/
+
+1. https://www.codewars.com/kata/convert-a-string-to-a-number/
 
 1. https://www.codewars.com/kata/count-the-monkeys/
 
