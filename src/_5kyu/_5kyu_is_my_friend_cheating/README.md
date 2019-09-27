@@ -1,6 +1,6 @@
 ## Solution for problem:
 
-https://www.codewars.com/kata/5547cc7dcad755e480000004/
+https://www.codewars.com/kata/is-my-friend-cheating/
 
 ## Instructions
 

@@ -2,9 +2,11 @@
 
 #### 5kyu 
 
-1. https://www.codewars.com/kata/5547cc7dcad755e480000004/
+https://www.codewars.com/kata/is-my-friend-cheating/
 
 #### 6kyu
+
+1. https://www.codewars.com/kata/bit-counting/
 
 1. https://www.codewars.com/kata/camelcase-method/
 
@@ -97,6 +99,8 @@
 1. https://www.codewars.com/kata/is-the-date-today/
 
 1. https://www.codewars.com/kata/l1-set-alarm/
+
+1. https://www.codewars.com/kata/makeuppercase/
 
 1. https://www.codewars.com/kata/odder-than-the-rest/
 
