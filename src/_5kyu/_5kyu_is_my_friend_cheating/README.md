@@ -4,12 +4,28 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 ## Instructions
 
-A friend of mine takes a sequence of numbers from 1 to n (where n > 0).
-Within that sequence, he chooses two numbers, a and b.
-He says that the product of a and b should be equal to the sum of all numbers in the sequence, excluding a and b.
-Given a number n, could you tell me the numbers he excluded from the sequence?
-The function takes the parameter: n (n is always strictly greater than 0) and returns an array or a string (depending on the language) of the form:
+A friend of mine takes a sequence of 
+numbers from 1 to n (where n > 0).
 
+Within that sequence, 
+he chooses two numbers, a and b.
+
+He says that the product 
+of a and b should be equal to the
+sum of all numbers in the sequence,
+excluding a and b.
+
+Given a number n, 
+could you tell me the numbers 
+he excluded from the sequence?
+
+The function takes the
+parameter: n (n is always 
+strictly greater than 0) 
+and returns an array or a string 
+(depending on the language) of the form:
+
+```
 [(a, b), ...] or [[a, b], ...] or {{a, b}, ...} or or [{a, b}, ...]
 with all (a, b) which are the possible removed numbers in the sequence 1 to n.
 
@@ -38,3 +54,4 @@ or
 in C:
 removNb(26) should return  **an array of pairs {{15, 21}{21, 15}}**
 tested by way of strings.
+```
