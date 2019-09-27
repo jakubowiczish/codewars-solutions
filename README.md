@@ -1,5 +1,9 @@
 ## Problems solved
 
+#### 5kyu 
+
+1. https://www.codewars.com/kata/5547cc7dcad755e480000004/
+
 #### 6kyu
 
 1. https://www.codewars.com/kata/camelcase-method/

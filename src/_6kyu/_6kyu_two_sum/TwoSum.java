@@ -2,7 +2,8 @@ package _6kyu._6kyu_two_sum;
 
 public class TwoSum {
 
-//    public static int[] twoSum(int[] numbers, int target) {
-//
-//    }
+    public static int[] twoSum(int[] numbers, int target) {
+        // TODO: JUST DO
+        return new int[]{};
+    }
 }
