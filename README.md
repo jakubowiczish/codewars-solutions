@@ -48,6 +48,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/odd-ones-out/
 
+1. https://www.codewars.com/kata/recursion-number-1-factorial/
+
 1. https://www.codewars.com/kata/spacify/
 
 1. https://www.codewars.com/kata/square-every-digit/
@@ -89,6 +91,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 1. https://www.codewars.com/kata/get-nth-even-number/
 
 1. https://www.codewars.com/kata/grasshopper-messi-goals-function/
+
+1. https://www.codewars.com/kata/grasshopper-summation/
 
 1. https://www.codewars.com/kata/grasshopper-terminal-game-move-function/
 
