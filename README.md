@@ -50,6 +50,10 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/recursion-number-1-factorial/
 
+1. https://www.codewars.com/kata/recursion-number-2-fibonacci/
+
+1. https://www.codewars.com/kata/remove-duplicate-words/
+
 1. https://www.codewars.com/kata/spacify/
 
 1. https://www.codewars.com/kata/square-every-digit/
