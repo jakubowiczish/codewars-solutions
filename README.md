@@ -6,6 +6,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 #### 6kyu
 
+1. https://www.codewars.com/kata/550498447451fbbd7600041c/
+
 1. https://www.codewars.com/kata/bit-counting/
 
 1. https://www.codewars.com/kata/camelcase-method/
@@ -47,6 +49,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 1. https://www.codewars.com/kata/maximum-multiple/
 
 1. https://www.codewars.com/kata/odd-ones-out/
+
+1. https://www.codewars.com/kata/5949481f86420f59480000e7/
 
 1. https://www.codewars.com/kata/recursion-number-1-factorial/
 
