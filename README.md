@@ -6,7 +6,7 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 #### 6kyu
 
-1. https://www.codewars.com/kata/550498447451fbbd7600041c/
+1. https://www.codewars.com/kata/550498447451fbbd7600041c/ Are they the "same"?
 
 1. https://www.codewars.com/kata/bit-counting/
 
@@ -42,7 +42,7 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/growth-of-a-population/
 
-1. https://www.codewars.com/kata/5738f5ea9545204cec000155/
+1. https://www.codewars.com/kata/5738f5ea9545204cec000155/ Help Bob count letters and digits.
 
 1. https://www.codewars.com/kata/leap-years/
 
@@ -52,7 +52,7 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/odd-ones-out/
 
-1. https://www.codewars.com/kata/5949481f86420f59480000e7/
+1. https://www.codewars.com/kata/5949481f86420f59480000e7/ Odd or Even?
 
 1. https://www.codewars.com/kata/recursion-number-1-factorial/
 
@@ -65,6 +65,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 1. https://www.codewars.com/kata/square-every-digit/
 
 1. https://www.codewars.com/kata/string-ends-with/
+
+1. https://www.codewars.com/kata/5a4d303f880385399b000001/ Strong number
 
 1. https://www.codewars.com/kata/sum-even-numbers/
 
@@ -84,7 +86,7 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/convert-a-string-to-a-number/
 
-1. https://www.codewars.com/kata/5583090cbe83f4fd8c000051/
+1. https://www.codewars.com/kata/5583090cbe83f4fd8c000051/ Convert number to reversed array of digits
 
 1. https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/
 
