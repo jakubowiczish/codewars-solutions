@@ -82,6 +82,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/convert-a-string-to-a-number/
 
+1. https://www.codewars.com/kata/5583090cbe83f4fd8c000051/
+
 1. https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/
 
 1. https://www.codewars.com/kata/count-the-monkeys/
