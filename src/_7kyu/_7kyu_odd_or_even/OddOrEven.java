@@ -1,3 +1,5 @@
+package _7kyu._7kyu_odd_or_even;
+
 import java.util.Arrays;
 
 /*
@@ -15,7 +17,7 @@ odd_or_even([0, -1, -5]) returns "even"
 Have fun!
  */
 
-public class Codewars {
+public class OddOrEven {
     public static String oddOrEven(int[] array) {
         return Arrays.stream(array).sum() % 2 == 0 ? "even" : "odd";
     }

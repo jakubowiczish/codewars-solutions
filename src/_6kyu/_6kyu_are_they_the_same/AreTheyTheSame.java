@@ -1,3 +1,5 @@
+package _6kyu._6kyu_are_they_the_same;
+
 import java.util.List;
 import java.util.ArrayList;
 
@@ -36,7 +38,8 @@ a or b are empty or not empty lists.
 public class AreTheyTheSame {
 
     public static boolean comp(int[] a, int[] b) {
-        if (a == null && b != null || a != null && b == null) return false;
+        if (a == null && b == null) return true;
+        if (a == null || b == null) return false;
 
         List<Integer> squares = new ArrayList<>();
         for (int i : a) {
@@ -44,7 +47,7 @@ public class AreTheyTheSame {
         }
 
         for (int i : b) {
-            if (squares.contains(i)) squares.remove(new Integer(i));
+            if (squares.contains(i)) squares.remove(Integer.valueOf(i));
             else return false;
         }
 

@@ -1,11 +1,13 @@
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
+package _7kyu._7kyu_odd_or_even;
 
-public class SolutionTest {
+import org.junit.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+public class OddOrEvenTest {
 
     @Test
     public void exampleTest() {
-        assertEquals("odd", Codewars.oddOrEven(new int[] {2, 5, 34, 6}));
+        assertEquals("odd", OddOrEven.oddOrEven(new int[]{2, 5, 34, 6}));
     }
 }
