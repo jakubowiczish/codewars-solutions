@@ -42,6 +42,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/growth-of-a-population/
 
+1. https://www.codewars.com/kata/5738f5ea9545204cec000155/
+
 1. https://www.codewars.com/kata/leap-years/
 
 1. https://www.codewars.com/kata/longest-vowel-chain/
