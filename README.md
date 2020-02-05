@@ -50,6 +50,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/maximum-multiple/
 
+1. https://www.codewars.com/kata/52829c5fe08baf7edc00122b/ Number Of Occurrences
+
 1. https://www.codewars.com/kata/odd-ones-out/
 
 1. https://www.codewars.com/kata/5949481f86420f59480000e7/ Odd or Even?
