@@ -10,6 +10,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/bit-counting/
 
+1. https://www.codewars.com/kata/537529f42993de0e0b00181f/ Calculate Number Of Inversions In Array
+
 1. https://www.codewars.com/kata/camelcase-method/
 
 1. https://www.codewars.com/kata/circularly-sorted-array/
