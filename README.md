@@ -24,6 +24,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/meeting/
 
+1. https://www.codewars.com/kata/514b92a657cdc65150000006/ Multiples of 3 or 5
+
 1. https://www.codewars.com/kata/new-cashier-does-not-know-about-space-or-shift/
 
 1. https://www.codewars.com/kata/primorial-of-a-number/
