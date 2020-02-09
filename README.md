@@ -134,6 +134,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/odder-than-the-rest/
 
+1. https://www.codewars.com/kata/5709bdd2f088096786000008/ Rearrange Integer Into Largest Possible
+
 1. https://www.codewars.com/kata/5168bb5dfe9a00b126000018/ Reversed Strings
 
 1. https://www.codewars.com/kata/simple-fun-number-1-seats-in-theater/ 
