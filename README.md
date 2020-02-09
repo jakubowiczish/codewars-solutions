@@ -74,9 +74,11 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/string-ends-with/
 
-1. https://www.codewars.com/kata/5a4d303f880385399b000001/ Strong number
+1. https://www.codewars.com/kata/5a4d303f880385399b000001/ Strong Number
 
 1. https://www.codewars.com/kata/sum-even-numbers/
+
+1. https://www.codewars.com/kata/5a03b3f6a1c9040084001765/ Sum Of Angles
 
 1. https://www.codewars.com/kata/sum-of-odd-numbers/
 
