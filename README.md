@@ -90,6 +90,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/a-needle-in-the-haystack/
 
+1. https://www.codewars.com/kata/5ab6538b379d20ad880000ab/ Area Of Perimeter
+
 1. https://www.codewars.com/kata/century-from-year/
 
 1. https://www.codewars.com/kata/5a2be17aee1aaefe2a000151 Array Plus Array
