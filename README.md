@@ -80,6 +80,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/5a03b3f6a1c9040084001765/ Sum Of Angles
 
+1. https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/ Sum Of Minimums
+
 1. https://www.codewars.com/kata/sum-of-odd-numbers/
 
 1. https://www.codewars.com/kata/unlucky-days/
