@@ -1,0 +1,1 @@
+test.assert_equals(opposite(1),-1)
