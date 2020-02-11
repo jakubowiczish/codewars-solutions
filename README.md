@@ -30,6 +30,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/primorial-of-a-number/
 
+1. https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/
+
 #### 7kyu
 
 1. https://www.codewars.com/kata/1st-day-of-month-that-are-sunday-in-a-year-range/
