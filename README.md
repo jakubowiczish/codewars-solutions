@@ -132,6 +132,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/is-the-date-today/
 
+1. https://www.codewars.com/kata/582cb0224e56e068d800003c/ Keep Hydrated
+
 1. https://www.codewars.com/kata/l1-set-alarm/
 
 1. https://www.codewars.com/kata/makeuppercase/
