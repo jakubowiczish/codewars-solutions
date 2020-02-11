@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class FormTheMinimumTest {
 
     @Test
-     void testSomething() {
+    public void testSomething() {
         assertEquals(13, FormTheMinimum.minValue(new int[]{1, 3, 1}));
         assertEquals(457, FormTheMinimum.minValue(new int[]{4, 7, 5, 7}));
         assertEquals(148, FormTheMinimum.minValue(new int[]{4, 8, 1, 4}));
