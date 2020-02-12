@@ -2,7 +2,9 @@
 
 #### 5kyu 
 
-https://www.codewars.com/kata/is-my-friend-cheating/
+1. https://www.codewars.com/kata/is-my-friend-cheating/
+
+1. https://www.codewars.com/kata/51edd51599a189fe7f000015/ Mean Square Error
 
 #### 6kyu
 
