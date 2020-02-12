@@ -124,6 +124,8 @@
 
 1. https://www.codewars.com/kata/difference-of-volumes-of-cuboids/ 
 
+1. https://www.codewars.com/kata/593ed37c93350098d600001d/ Easy SQL Ordering
+
 1. https://www.codewars.com/kata/enumerable-magic-number-25-take-the-first-n-elements/
 
 1. https://www.codewars.com/kata/even-or-odd/
