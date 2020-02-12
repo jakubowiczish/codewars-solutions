@@ -26,6 +26,8 @@
 
 1. https://www.codewars.com/kata/find-the-odd-int/ 
 
+1. https://www.codewars.com/kata/5526fc09a1bbd946250002dc/ Find The Parity Outlier
+
 1. https://www.codewars.com/kata/highest-scoring-word/
 
 1. https://www.codewars.com/kata/meeting/
