@@ -88,6 +88,8 @@ https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/unlucky-days/
 
+1. https://www.codewars.com/kata/54ff3102c1bad923760001f3/ Vowel Count
+
 #### 8kyu
 
 1. https://www.codewars.com/kata/101-dalmatians-squash-the-bugs-not-the-dogs/
