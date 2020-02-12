@@ -1,5 +1,9 @@
 ## Problems solved
 
+#### 4kyu
+
+1. https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/ Range Extraction
+
 #### 5kyu 
 
 1. https://www.codewars.com/kata/is-my-friend-cheating/
