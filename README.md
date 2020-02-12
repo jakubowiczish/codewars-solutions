@@ -10,6 +10,8 @@
 
 1. https://www.codewars.com/kata/51edd51599a189fe7f000015/ Mean Square Error
 
+1. https://www.codewars.com/kata/5811597e9d278beb04000038/ SQL Basics Group By Day
+
 #### 6kyu
 
 1. https://www.codewars.com/kata/550498447451fbbd7600041c/ Are they the "same"?
@@ -113,6 +115,8 @@
 1. https://www.codewars.com/kata/century-from-year/
 
 1. https://www.codewars.com/kata/55cbc3586671f6aa070000fb/ Check For Factor
+
+1. https://www.codewars.com/kata/57036f007fd72e3b77000023/ Classic Hello World
 
 1. https://www.codewars.com/kata/5a2be17aee1aaefe2a000151 Array Plus Array
 
