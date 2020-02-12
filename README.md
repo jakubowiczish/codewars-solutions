@@ -38,7 +38,9 @@
 
 1. https://www.codewars.com/kata/primorial-of-a-number/
 
-1. https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/
+1. https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/ Row Of The Odd Triangle
+
+1. https://www.codewars.com/kata/58164ddf890632ce00000220/ SQL Basics Simple Having
 
 #### 7kyu
 
