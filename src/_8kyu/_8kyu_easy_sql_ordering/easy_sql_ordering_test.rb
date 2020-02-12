@@ -1,3 +1,5 @@
+# DATA FOR TESTS IS AVAILABLE ONLY ON WEBSITE
+
 results = run_sql
 
 describe :query do

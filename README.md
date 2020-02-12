@@ -42,6 +42,8 @@
 
 1. https://www.codewars.com/kata/58164ddf890632ce00000220/ SQL Basics Simple Having
 
+1. https://www.codewars.com/kata/582cba7d3be8ce3a8300007c/ SQL Bug Fixing Totaling
+
 #### 7kyu
 
 1. https://www.codewars.com/kata/1st-day-of-month-that-are-sunday-in-a-year-range/

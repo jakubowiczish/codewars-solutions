@@ -1,3 +1,5 @@
+# DATA FOR TESTS IS AVAILABLE ONLY ON WEBSITE
+
 compare_with expected do
   spec do
     it "should contain HAVING" do
