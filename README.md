@@ -42,6 +42,8 @@
 
 1. https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/ Row Of The Odd Triangle
 
+1. https://www.codewars.com/kata/58113a64e10b53ec36000293/ SQL Basics Simple Exists
+
 1. https://www.codewars.com/kata/58164ddf890632ce00000220/ SQL Basics Simple Having
 
 1. https://www.codewars.com/kata/582cba7d3be8ce3a8300007c/ SQL Bug Fixing Totaling
