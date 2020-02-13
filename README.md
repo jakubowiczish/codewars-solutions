@@ -6,6 +6,8 @@
 
 #### 5kyu 
 
+1. https://www.codewars.com/kata/52685f7382004e774f0001f7/ Human Readable Time
+
 1. https://www.codewars.com/kata/is-my-friend-cheating/
 
 1. https://www.codewars.com/kata/51edd51599a189fe7f000015/ Mean Square Error
@@ -157,6 +159,8 @@
 1. https://www.codewars.com/kata/how-many-lightsabers-do-you-own/
 
 1. https://www.codewars.com/kata/incorrect-division-method/
+
+1. https://www.codewars.com/kata/5545f109004975ea66000086/ Is N Divisible By X And Y
 
 1. https://www.codewars.com/kata/is-the-date-today/
 
