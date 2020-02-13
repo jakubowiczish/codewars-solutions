@@ -86,6 +86,8 @@
 
 1. https://www.codewars.com/kata/spacify/
 
+1. https://www.codewars.com/kata/580918e24a85b05ad000010c/ SQL Basics Simple Join With Count
+
 1. https://www.codewars.com/kata/square-every-digit/
 
 1. https://www.codewars.com/kata/string-ends-with/
