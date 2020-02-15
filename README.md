@@ -68,6 +68,8 @@
 
 1. https://www.codewars.com/kata/5738f5ea9545204cec000155/ Help Bob count letters and digits.
 
+1. https://www.codewars.com/kata/54a6d39a478d8e07e4000b69/ Java Functional Programming - Closured For Business
+
 1. https://www.codewars.com/kata/54a6c6e7478d8ee02d000cd9/ Java Functional Programming - Multiline Functions
 
 1. https://www.codewars.com/kata/54a6b43e478d8ee14c000a5d/ Java Functional Programming - The Beginning
