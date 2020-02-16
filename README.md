@@ -4,6 +4,8 @@
 
 1. https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/ Range Extraction
 
+1. https://www.codewars.com/kata/551f23362ff852e2ab000037/ Longest Slide Down
+
 #### 5kyu 
 
 1. https://www.codewars.com/kata/52685f7382004e774f0001f7/ Human Readable Time
