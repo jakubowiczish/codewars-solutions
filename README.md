@@ -34,6 +34,8 @@
 
 1. https://www.codewars.com/kata/circularly-sorted-array/
 
+1. https://www.codewars.com/kata/counting-duplicates/
+
 1. https://www.codewars.com/kata/find-the-missing-letter/
 
 1. https://www.codewars.com/kata/find-the-odd-int/ 
