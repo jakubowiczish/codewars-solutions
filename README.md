@@ -168,6 +168,8 @@
 
 1. https://www.codewars.com/kata/expressions-matter/
 
+1. https://www.codewars.com/kata/find-the-first-non-consecutive-number/
+
 1. https://www.codewars.com/kata/get-nth-even-number/
 
 1. https://www.codewars.com/kata/grasshopper-messi-goals-function/
