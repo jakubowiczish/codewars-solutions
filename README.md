@@ -92,6 +92,8 @@
 
 1. https://www.codewars.com/kata/maximum-multiple/
 
+1. https://www.codewars.com/kata/no-loops-1-small-enough/
+
 1. https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/ No Oddities Here
 
 1. https://www.codewars.com/kata/52829c5fe08baf7edc00122b/ Number Of Occurrences
