@@ -28,6 +28,8 @@
 
 1. https://www.codewars.com/kata/bit-counting/
 
+1. https://www.codewars.com/kata/break-camelcase/
+
 1. https://www.codewars.com/kata/537529f42993de0e0b00181f/ Calculate Number Of Inversions In Array
 
 1. https://www.codewars.com/kata/camelcase-method/
