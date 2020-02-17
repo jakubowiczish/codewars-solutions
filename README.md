@@ -188,6 +188,8 @@
 
 1. https://www.codewars.com/kata/makeuppercase/
 
+1. https://www.codewars.com/kata/no-loops-2-you-only-need-one/
+
 1. https://www.codewars.com/kata/odder-than-the-rest/
 
 1. https://www.codewars.com/kata/56dec885c54a926dcd001095/ Opposite Number
