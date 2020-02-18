@@ -146,6 +146,8 @@
 
 1. https://www.codewars.com/kata/5a2be17aee1aaefe2a000151 Array Plus Array
 
+1. https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/ Beginner Series Cockroach
+
 1. https://www.codewars.com/kata/convert-a-number-to-a-string/
 
 1. https://www.codewars.com/kata/convert-a-string-to-a-number/
