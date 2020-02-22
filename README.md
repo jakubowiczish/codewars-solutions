@@ -1,3 +1,10 @@
+<img src="https://img.shields.io/github/languages/code-size/jakubowiczish/codewars-solutions?style=for-the-badge"> 
+<img src="https://img.shields.io/github/repo-size/jakubowiczish/codewars-solutions?color=purple&style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/jakubowiczish/codewars-solutions?color=green&style=for-the-badge"> 
+<img src="https://img.shields.io/github/languages/top/jakubowiczish/codewars-solutions?color=orange&style=for-the-badge">
+<img src="https://img.shields.io/github/commit-activity/m/jakubowiczish/codewars-solutions?color=lime&style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/jakubowiczish/codewars-solutions?color=darkgreen&style=for-the-badge">
+
 ## Problems solved
 
 #### 4kyu
