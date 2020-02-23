@@ -16,6 +16,8 @@
 
 1. https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/ Range Extraction
 
+1. https://www.codewars.com/kata/strip-comments/
+
 1. https://www.codewars.com/kata/5324945e2ece5e1f32000370/ Sum Strings As Numbers
 
 #### 5kyu 
