@@ -4,6 +4,9 @@
 <img src="https://img.shields.io/github/commit-activity/m/jakubowiczish/codewars-solutions?color=lime&style=for-the-badge">
 <img src="https://img.shields.io/github/last-commit/jakubowiczish/codewars-solutions?color=darkgreen&style=for-the-badge">
 
+<img src="https://tokei.rs/b1/github/jakubowiczish/codewars-solutions?category=code" width="200"> <img src="https://tokei.rs/b1/github/jakubowiczish/codewars-solutions?category=lines" width="175">
+<img src="https://tokei.rs/b1/github/jakubowiczish/codewars-solutions?category=files" width="100">
+
 ## Problems solved
 
 #### 4kyu
