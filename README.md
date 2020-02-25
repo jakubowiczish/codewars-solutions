@@ -69,6 +69,8 @@
 
 1. https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/ Row Of The Odd Triangle
 
+1. https://www.codewars.com/kata/split-strings/
+
 1. https://www.codewars.com/kata/58113a64e10b53ec36000293/ SQL Basics Simple Exists
 
 1. https://www.codewars.com/kata/58164ddf890632ce00000220/ SQL Basics Simple Having
