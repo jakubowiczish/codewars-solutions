@@ -105,6 +105,8 @@
 
 1. https://www.codewars.com/kata/leap-years/
 
+1. https://www.codewars.com/kata/linked-lists-append/
+
 1. https://www.codewars.com/kata/longest-vowel-chain/
 
 1. https://www.codewars.com/kata/maximum-multiple/
