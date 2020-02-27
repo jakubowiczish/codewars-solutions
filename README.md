@@ -59,6 +59,8 @@
 
 1. https://www.codewars.com/kata/highest-scoring-word/
 
+1. https://www.codewars.com/kata/linked-lists-length-and-count/
+
 1. https://www.codewars.com/kata/linked-lists-sorted-insert/
 
 1. https://www.codewars.com/kata/meeting/
