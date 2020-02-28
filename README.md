@@ -29,6 +29,8 @@
 
 1. https://www.codewars.com/kata/is-my-friend-cheating/
 
+1. https://www.codewars.com/kata/linked-lists-alternating-split/
+
 1. https://www.codewars.com/kata/51edd51599a189fe7f000015/ Mean Square Error
 
 1. https://www.codewars.com/kata/moving-zeros-to-the-end/
