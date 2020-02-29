@@ -234,3 +234,5 @@
 1. https://www.codewars.com/kata/sum-mixed-array/
 
 1. https://www.codewars.com/kata/third-angle-of-a-triangle/
+
+1. https://www.codewars.com/kata/will-you-make-it/
