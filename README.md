@@ -41,6 +41,8 @@
 
 1. https://www.codewars.com/kata/550498447451fbbd7600041c/ Are they the "same"?
 
+1. https://www.codewars.com/kata/backspaces-in-string/
+
 1. https://www.codewars.com/kata/bit-counting/
 
 1. https://www.codewars.com/kata/break-camelcase/
