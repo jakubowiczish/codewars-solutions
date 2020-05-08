@@ -157,6 +157,8 @@
 
 1. https://www.codewars.com/kata/54ff3102c1bad923760001f3/ Vowel Count
 
+1. https://www.codewars.com/kata/sql-with-lotr-elven-wildcards/solutions/sql
+
 #### 8kyu
 
 1. https://www.codewars.com/kata/101-dalmatians-squash-the-bugs-not-the-dogs/
