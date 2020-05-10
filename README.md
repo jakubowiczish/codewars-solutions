@@ -89,6 +89,8 @@
 
 1. https://www.codewars.com/kata/sql-basics-simple-table-totaling/
 
+1. https://www.codewars.com/kata/sql-basics-simple-in/
+
 
 
 #### 7kyu
