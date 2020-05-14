@@ -165,6 +165,10 @@
 
 1. https://www.codewars.com/kata/sql-with-lotr-elven-wildcards/solutions/sql
 
+1. https://www.codewars.com/kata/by-3-or-not-by-3-that-is-the-question/
+
+
+
 #### 8kyu
 
 1. https://www.codewars.com/kata/101-dalmatians-squash-the-bugs-not-the-dogs/
